@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/StockAppAssignment/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/StockAppAssignment/static/js/main.db59b4e6.chunk.js",
+    "main.js.map": "/StockAppAssignment/static/js/main.db59b4e6.chunk.js.map",
+    "runtime-main.js": "/StockAppAssignment/static/js/runtime-main.ffabc749.js",
+    "runtime-main.js.map": "/StockAppAssignment/static/js/runtime-main.ffabc749.js.map",
+    "static/css/2.c4e73993.chunk.css": "/StockAppAssignment/static/css/2.c4e73993.chunk.css",
+    "static/js/2.abb56dc1.chunk.js": "/StockAppAssignment/static/js/2.abb56dc1.chunk.js",
+    "static/js/2.abb56dc1.chunk.js.map": "/StockAppAssignment/static/js/2.abb56dc1.chunk.js.map",
+    "static/js/3.4fd70b99.chunk.js": "/StockAppAssignment/static/js/3.4fd70b99.chunk.js",
+    "static/js/3.4fd70b99.chunk.js.map": "/StockAppAssignment/static/js/3.4fd70b99.chunk.js.map",
+    "index.html": "/StockAppAssignment/index.html",
+    "static/css/2.c4e73993.chunk.css.map": "/StockAppAssignment/static/css/2.c4e73993.chunk.css.map",
+    "static/css/main.6dea0f05.chunk.css.map": "/StockAppAssignment/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.abb56dc1.chunk.js.LICENSE.txt": "/StockAppAssignment/static/js/2.abb56dc1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ffabc749.js",
+    "static/css/2.c4e73993.chunk.css",
+    "static/js/2.abb56dc1.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.db59b4e6.chunk.js"
+  ]
+}
